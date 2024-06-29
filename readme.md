@@ -12,4 +12,4 @@ The profile picture I curently use ([file page on Wikimedia Commons](https://com
 It also has been cropped.
 
 # Random stats I have put there because I was bored
-[![Your local GX 317's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben20471)](https://github.com/anuraghazra/github-readme-stats)
+[![Your local GX 317's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben20471&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
